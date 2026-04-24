@@ -96,7 +96,16 @@ This project addresses these needs by building a **data-driven dashboard for ban
 ## 📷 Dashboard Preview
 <img width="821" height="613" alt="dashboard_overview" src="https://github.com/user-attachments/assets/1934478b-b6e6-49b9-8e0c-a6fc03e480ec" />
 
----
+---  
+
+## 📌 Project Structure  
+
+Retail-Banking-Analytics/      
+│  
+├── Retail_Banking_dashboard.pdf   
+└── README.md     
+
+---  
 
 ## 🚀 Key Skills Demonstrated
 
