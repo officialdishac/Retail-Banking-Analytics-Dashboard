@@ -102,7 +102,7 @@ This project addresses these needs by building a **data-driven dashboard for ban
 
 Retail-Banking-Analytics/      
 │  
-├── Retail_Banking_dashboard.pdf   
+├── Retail_Banking_Dashboard.pdf   
 └── README.md     
 
 ---  
